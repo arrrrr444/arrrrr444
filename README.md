@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![arrrrr444 github stats](https://github-readme-stats.vercel.app/api?username=arrrrr444&show_icons=true&hide_border=true&hide=issues)](https://github.com/arrrrr444)
 <!--
 **arrrrr444/arrrrr444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
